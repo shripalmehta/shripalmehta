@@ -23,5 +23,5 @@
 
 <br>
 
-![](https://github-readme-stats.vercel.app/api?username=shripalmehta&include_all_commits=true&theme=dark&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=shripalmehta&include_all_commits=true&count_private=true&theme=dark)
 
