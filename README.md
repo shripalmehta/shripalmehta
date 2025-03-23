@@ -19,5 +19,6 @@
 
 
 ## 📈 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shripalmehta&layout=compact&theme=dark&langs_count=8" /> <br>
-<img src="https://github-readme-stats.vercel.app/api?username=shripalmehta&include_all_commits=true&theme=dark&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shripalmehta&layout=compact&theme=dark&langs_count=8" /> 
+<img src="https://github-readme-stats.vercel.app/api?username=shripalmehta&include_all_commits=true&count_private=true&theme=dark" />
+
