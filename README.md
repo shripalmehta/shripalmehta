@@ -18,10 +18,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shripal-mehta) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/11047174)
 
 
-### 📈 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shripalmehta&layout=compact&theme=dark&hide_border=true&langs_count=8" />
-
-<br>
-
-![](https://github-readme-stats.vercel.app/api?username=shripalmehta&include_all_commits=true&count_private=true&theme=dark)
-
+## 📈 GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shripalmehta&layout=compact&theme=dark&langs_count=8" /> <br>
+<img src="https://github-readme-stats.vercel.app/api?username=shripalmehta&include_all_commits=true&theme=dark&count_private=true" />
